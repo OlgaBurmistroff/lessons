@@ -1,0 +1,53 @@
+@import url("reset.css");
+
+
+* {
+    /*  color: red; */
+    } 
+div{
+    color: darkorchid; 
+}
+.text {
+     color: blue; 
+}
+
+a {
+    color: blueviolet; 
+}
+#some-id{
+    color: fuchsia;
+}
+
+div.info{
+    color: chartreuse;
+}
+/*звернення до об"єктів у яких є два класи*/
+.material-text.text{
+   /* color: dimgray; */
+}
+.text,
+.material {
+    color: black;
+}
+.history a{
+   /* color: black; */
+}
+.data p{
+    color: red; 
+}
+.data .blue-text {
+    color: blue;
+}
+.lesson * {
+
+    color: green;
+}
+.data > p {
+    color: chocolate;
+}
+    .history ~ p {
+        color: darkred;
+    }
+    .text + p {
+        color: olive;
+    }
