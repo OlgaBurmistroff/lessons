@@ -1,0 +1,224 @@
+
+
+
+
+
+
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600;700&family&display=swap');
+
+  
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600&display=swap');
+
+  
+  
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+
+
+  
+
+   @font-face
+{
+    font-family: "Podkova" ;
+    src: url("../fonts/Podkova-Medium.woff2") format("woff2"),
+    src: url("../fonts/Podkova-Medium.woff") format("woff");
+    font-weight: normal;
+    font-style:  normal:
+    font-display: swap; 
+
+}
+
+/*@font-face
+{
+    font-family: "Podkova" ;
+    src: url("../fonts/Podkova-ExtraBold.woff2") format("woff2"),
+    src: url("../fonts/Podkova-ExtraBold.woff") format("woff"),
+    font-weight: 800;
+    font-style:  normal:
+    font-display: swap;*/
+}
+
+
+
+/*@font-face
+{
+    font-family: "SybillaPro" ;
+    src: url("../fonts/SybillaPro-HeavyIt.woff2") format("woff2"),
+    src: url("../fonts/SybillaPro-HeavyIt.woff") format("woff"),
+    font-weight: 900;
+    font-style:  normal:
+    font-display: swap;*/
+}
+
+
+/*@font-face
+{
+    font-family: "SybillaPro" ;
+    src: url("../fonts/SybillaPro-Thin.woff2") format("woff2"),
+    src: url("../fonts/SybillaPro-Thin.woff") format("woff"),
+    font-weight: 100;
+    font-style:  normal:
+    font-display: swap;*/
+} 
+body {
+    font-family: "Inter", sans-serif; 
+    font-size: 18px;
+
+}
+
+	.title,
+    .film { 
+        font-family: "Roboto+Mono", sans-serif; 
+
+    }
+    .title {
+        font-size: 25px
+    }
+    .film {
+        font-size: 20px;
+    }
+
+.title {
+    font-style: oblique ;
+
+}
+
+.describe {
+    font-family: "Podkova" , sans-serif;
+}
+    .film {
+        font-weight: 800;
+    }
+    .describe,
+    .history
+    
+    {
+	text-align: center
+}
+.title,
+.film {
+text-align: center
+}
+
+
+    /*Як правило кольори записуємо через код(фігма)*/
+    .describe {
+        color: brown
+    }
+    .history {
+        text-decoration: underline;
+    }
+    .title {
+        text-shadow: 5px 5px 3px red
+    }
+
+    .film{
+        text-transform:uppercase;
+    }
+
+    .describe {
+        line-height: 1.25;
+    }
+    .film {
+        letter-spacing: 2px;
+    }
+    
+    .history {
+        white-space: 30px;
+    }
+
+    .describe,
+    .history {
+        text-indent: 50px;
+    }
+    /*.history {
+        white-space: nowrap;*/
+    }
+    
+    .sub-title,
+    .two-title {
+        font-family: "Poppins", sans-serif;
+    }
+    .sub-title {
+        font-size: 30px;
+    }
+    .two-title {
+        font-size: 20px;
+    }
+    .sub-title {
+        /* font-style: italic; */
+    }
+    .sub-title,
+    .two-title {
+        font-weight: 600;
+    }
+    
+    .info,
+    .two-info {
+        color: #7d7d7d;
+    }
+ 
+.sub-title {
+	color: #37393f;
+	
+}
+
+.two-title {
+	color: #6b77e5;
+}
+.sub-title,
+.two-title {
+	line-height: 1.27; /* 38/30 */
+}
+
+.info,
+.two-info {
+    line-height: 1.47;
+}
+.text
+{
+        font-family: "Poppins", sans-serif;
+    }
+    .text{
+        font-size: 40px;
+}
+.text {
+    font-weight: 700;
+}
+.data,
+.list
+{
+    color: #7d7d7d
+}
+.link,
+.two-data {
+    color: #7d7d7d
+}
+.information {
+    color: #7d7d7d
+
+}
+
+.link,
+.list {
+    font-weight: 500; 
+}
+    .text {
+        line-height: 2;
+    }
+
+    .link,
+    .two-data {
+        line-height:1,7;
+    }
+    .list,
+    .data {
+        line-height:1,7;
+    }
+.information {
+    line-height:1,7;
+}
+    @import url("reset.css");
