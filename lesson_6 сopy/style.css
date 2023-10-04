@@ -1,0 +1,67 @@
+
+@import url("https://fonts.googleapis.com/css?family=Inter:regular&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:600&display=swap");
+
+@import url("reset.css");
+
+.img {
+        max-width: 715px;
+        margin: 0 auto;
+        
+}
+
+.off img {
+    margin-bottom: 37px;
+}
+.title {
+    color: #37393F;
+    font-size: 30px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 1.27;
+    
+}
+.text {
+color: #7D7D7D;
+font-size: 18px;
+font-family: Inter;
+font-weight: 400;
+line-height: 1.4;
+
+}
+.text,
+.title
+ {
+    max-width: 692px;
+    margin: 0 auto;
+}
+
+.text{
+    margin-bottom: 42px;
+}
+
+.two-title {
+    color: #6B77E5;
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 1.6;
+    
+}
+.consulting {
+    color: #7D7D7D;
+font-size: 18px;
+font-family: Inter;
+font-weight: 400;
+line-height: 1.5;
+}
+.two-title,
+.consulting {
+    max-width: 692px;
+    margin: 0 auto;
+}
+.consulting {
+
+margin-bottom: 39px;
+}
+.

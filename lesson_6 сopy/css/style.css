@@ -1,0 +1,107 @@
+
+@import url("https://fonts.googleapis.com/css?family=Inter:regular&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:600&display=swap");
+
+@import url("reset.css");
+
+.img {
+        max-width: 715px;
+        margin: 0 auto;
+        
+}
+
+.off img {
+    margin-bottom: 37px;
+}
+.title {
+    color: #37393F;
+    font-size: 30px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 1.27;
+    
+}
+.text {
+color: #7D7D7D;
+font-size: 18px;
+font-family: Inter;
+font-weight: 400;
+line-height: 1.4;
+
+}
+.text,
+.title
+ {
+    max-width: 692px;
+    margin: 0 auto;
+}
+
+.text{
+    margin-bottom: 42px;
+}
+
+.two-title {
+    color: #6B77E5;
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 1.6;
+    
+}
+.consulting {
+    color: #7D7D7D;
+font-size: 18px;
+font-family: Inter;
+font-weight: 400;
+line-height: 1.5;
+}
+.two-title,
+.consulting {
+    max-width: 692px;
+    margin: 0 auto;
+}
+.consulting {
+    margin-bottom: 40px
+}
+.benefits {
+    font-size: 0;
+}
+.benif-img {
+    width: 331px;
+    margin-right: 29px;
+}
+
+
+.blok-benefist {
+    display: inline-block;
+    width: 331px;
+    font-size: 18;
+}
+   
+.benefit {
+    color: #37393F;
+    font-size: 25px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 1.27;
+    margin-bottom: 15px;
+}
+.standart {
+    color: #40DDB6;
+font-size: 20px;
+font-family: Poppins;
+font-weight: 600;
+line-height: 1.27;
+margin-bottom: 30px;
+}
+
+
+ .list {
+color: #7D7D7D;
+font-size: 18px;
+font-family: Inter;
+line-height: 1.27;
+}
+
+
+
