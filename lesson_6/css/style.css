@@ -1,0 +1,144 @@
+
+@import url("https://fonts.googleapis.com/css?family=Inter:regular&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap');
+@import url("reset.css");
+
+
+.off{
+    max-width: 692px;
+    margin: auto;
+}
+
+
+.title {
+    color: #37393F;
+    font-size: 30px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 1.27;
+    
+}
+.text {
+color: #7D7D7D;
+font-size: 18px;
+font-family: Inter;
+font-weight: 400;
+line-height: 1.4;
+
+}
+.text,
+.title
+ {
+    max-width: 692px;
+    margin: 0 auto;
+}
+
+.text{
+    margin-bottom: 42px;
+}
+
+.two-title {
+    color: #6B77E5;
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 1.6;
+    
+}
+.consulting {
+    color: #7D7D7D;
+font-size: 18px;
+font-family: Inter;
+font-weight: 400;
+line-height: 1.5;
+}
+.two-title,
+.consulting {
+    max-width: 692px;
+    margin: 0 auto;
+}
+.consulting {
+    margin-bottom: 40px;
+}
+.benefits {
+	font-size: 0;
+    
+    }
+    .benif-img {
+        width: 331px;
+        margin-right: 29px;
+    }
+
+.blok-benefist{
+    display: inline-block;
+    vertical-align: top;
+    width: 331px;
+    font-size: 15px;
+    
+}
+
+.benefit {
+    color: #37393F;
+    font-size: 25px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 1.27;
+    margin-bottom: 15px;
+    }
+
+.standart {
+color: #40DDB6;
+font-size: 20px;
+font-family: Poppins;
+font-weight: 600;
+line-height: 1.27;
+margin-bottom: 21px;
+}
+
+
+ .list li {
+color: #7D7D7D;
+font-size: 18px;
+font-family: Inter;
+line-height: 1.27;
+margin-bottom: 35px;
+}
+
+
+
+
+.text-content {
+width: 563px;
+margin-right: 38px;
+padding: 21px 0px;
+
+}
+
+
+    .title-one {
+color: #D06B00;
+font-size: 28px;
+font-family: Inter;
+font-weight: 400;
+margin-bottom: 13px;
+    }
+.title-two {
+    color: #0E333D;
+    font-size: 59px;
+    font-family: DM Serif Text;
+    font-weight: 400;
+    line-height: 1.46;
+    margin-bottom: 25px;
+}
+.jv-text{
+    color: #474747;
+    font-size: 20px;
+    line-height: 1.8;
+    font-family: Inter;
+}
+.jewellery-img img+img {
+    margin-right: 22px;
+    
+    }
+    
