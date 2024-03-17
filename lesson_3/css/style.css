@@ -1,0 +1,49 @@
+@import url("reset.css");
+
+ * {
+    color: blue;
+} 
+div {
+    color: red;
+}
+
+.title {
+    color: brown;
+}
+
+#uk {
+    color: chartreuse;
+}
+
+div.begin {
+    color: black;
+}
+
+.ukr.people {
+    color: crimson;
+}
+.ukr,
+.people {
+	color: blueviolet;
+}
+.end p {
+    color: darkgoldenrod;
+}
+
+
+.history .people {
+	color: dimgrey;
+}
+.history * {
+    color: hotpink;
+}
+.history  > p {
+    color: aqua;
+}
+.history ~ p {
+    color: orangered;
+}
+
+.history + p {
+    color: black;
+}
