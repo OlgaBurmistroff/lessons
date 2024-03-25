@@ -1,0 +1,31 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@0,600;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@0,500;1,500&display=swap');
+
+
+@font-face {
+    font-family: "Proxima Nova";
+    src: url("../fonts/ProximaNova-Regular.woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+	
+
+
+@font-face {
+    font-family: "Poppins";
+    src: url("../fonts/Poppins-ExtraLight.woff2");
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Causten";
+ src: url("../fonts/Causten-Extra-Bold.woff2");  
+ font-weight: 800;
+ font-style: normal;
+    font-display: swap;
+}
