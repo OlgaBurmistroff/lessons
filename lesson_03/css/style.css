@@ -1,0 +1,88 @@
+@import url("reset.css");
+
+
+
+
+
+* {
+	color: rgb(111, 0, 255);
+}
+	
+[title*="ок"] {
+    color: rgb(0, 255, 0); 
+}
+
+
+p {
+	color: red;
+}
+
+.list{
+    color: rgb(211, 192, 255);
+  }
+ 
+  #some-id {
+	color: black;
+}
+
+
+
+ p.text { 
+    color: chocolate;
+ } 
+ 
+ 
+ .title.text {
+	 color: greenyellow; 
+}
+.text-two * {
+    color: forestgreen;
+}
+.text-two p{
+    color: dimgrey;
+}
+
+.text-two .lead {
+    color: deeppink;
+}
+
+
+.info > p {
+    color: rgb(0, 130, 11);
+}
+
+.info ~ p {
+    color: yellow;
+}
+
+.info-one + p {
+    color: black;
+}
+
+
+.list-two > ul > li{
+	color:red;
+} 
+.list-two> ul > li ~ li{
+	color:green;
+}
+.list-two > ul li ul > li{
+	color:blue;
+}
+
+.list-two> ul li ul > li ~ li{
+	color:orange;
+}
+.list-two > ul li ul > li > span{
+	color:#a0f0fc;
+}
+.list-two > ul li ul li ol > li{
+	color:#4597f7;
+} 
+.list-two > ul li ul li ol > li ~ li{
+	color:#5d5d5d;
+}
+	
+[class*="team"]{
+	color: black;
+}
