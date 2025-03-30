@@ -1,0 +1,171 @@
+
+
+
+
+@import url("fonts.css");
+
+@import url("reset.css");
+
+
+
+body {
+	background: #231f8b;
+	
+	
+	}
+
+.advantages{
+	max-width: 1050px;
+	
+	padding: 112px 0px;
+	margin: 0 auto;
+	min-height: 138px;
+}
+.info h1 {
+
+	font-family: "Circular Std", sans-serif;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: normal;
+font-style: normal;
+color: #FFF;
+margin-bottom: 10px;
+
+}
+	
+.advantages-one {
+	max-width: 1044px;
+	
+	padding: 0px 40px;
+	
+	
+}
+
+
+
+	
+
+.info p {
+
+	font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 1.71;
+	color: #5A54F2;
+	margin-bottom: 10px;
+	letter-spacing: 0.2px;
+}
+.info-two {
+	font-family: "Circular Std", sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.4;
+	color: #5A54F2;
+	
+	letter-spacing: 0.2px;
+}
+
+
+
+
+
+.card h2 {
+	
+font-family: "Circular Std, sans-serif";
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.5;
+letter-spacing: 0.1px;
+}
+
+.text {
+	font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.4;
+	color: #737373;
+	letter-spacing: 0.2px;
+
+	
+}
+
+.conteiner {
+	margin-bottom: 70px;
+	
+	font-size: 0;
+	margin-left: 250px;
+}
+	
+
+
+
+.card {
+	display: inline-block;
+    padding: 35px 40px;
+    background-color: #FFF;
+    
+    
+    min-height: 288px;
+    vertical-align: top;
+    margin-left: 30px;
+	
+	
+    max-width: 230px;
+     width: 33.333%;
+	
+}
+
+
+
+.logo {
+	padding-bottom: 20px;
+}
+.title {
+	
+	margin-bottom: 20px;
+}
+
+.thumb {
+	width: 50px;
+	height: 2px;
+	background: #E74040;
+	margin-bottom: 20px;
+}
+
+
+.card-top {
+	vertical-align: bottom;
+	margin-top: 48px;
+}
+
+	
+.card-dark  {
+	background-color:#5A54F2;
+}
+
+	
+.card-dark h2 {
+	color: #FFF;
+}
+
+
+
+.line {
+	width: 50px;
+	height: 2px;
+	background-color: #FFF;
+	margin-bottom: 20px;
+}
+
+.text-white {
+	
+font-family: "Montserrat", sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 1.4;
+color: #737373;
+letter-spacing: 0.2px;
+text-shadow: 1px 1px 1px  #FFF;
+}
+
