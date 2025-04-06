@@ -1,0 +1,185 @@
+
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300&display=swap");
+
+@import url("fonts.css");
+
+@import url("reset.css");
+
+
+.wrapper {
+	overflow: clip;
+	min-height: 100%;
+
+}
+
+	.conteiner {
+		max-width: 1272px;
+		margin: 0 auto;
+		padding-left: 15px;
+		padding-right: 15px;
+		width: 100%;
+		min-height: 167px;
+	}
+
+
+
+	/*.section {
+		background-image: url(../img/rectangle.png)
+	}
+*/
+.section {
+
+
+	font-family: "Montserrat";
+line-height: normal;
+
+border-radius: 90px;
+	background: radial-gradient(2900.76% 50.13% at 50% 53.89%, rgba(58, 52, 86, 0.95) 0%, #211E2E 100%);
+	box-shadow: 0px 4px 4px 0px rgba(192, 183, 232, 0.01);
+	padding: 50px 0;
+	margin-bottom: 50px;
+	
+}
+
+.location {
+	vertical-align: middle;
+	font-size: 0;
+	
+}
+.content.visit-call {
+	
+		display: inline-block;
+		padding: 49px 0px 48px 121px;
+		background-image: url("../img/Location-Icon.png");
+		background-repeat: no-repeat;
+		width: 35%;
+		background-position: 39px center
+	}
+
+.content.number-tel {
+	width: 29%;
+	display: inline-block;
+	background-image: url("../img/vector_5.png"), url("../img/phone-call.png");
+	background-repeat: no-repeat, no-repeat;
+	background-position: 0 center, 40px center;
+	padding: 56px 0 52px 136px;
+
+}
+.content.send-message {
+	width: 30%;
+	display: inline-block;
+	background-image: url("../img/vector_5.png"), url("../img/mail.png");
+	background-repeat: no-repeat, no-repeat;
+	background-position: 0 center, 40px center;
+	padding: 50px 0 52px 139px;
+	
+}
+
+.content {
+	color: #FFF;
+	font-weight: 700;
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+.content p {
+	max-width: 169px;
+	min-height: 29px;
+
+}
+.visit-call a {
+	
+	max-width: 290px;
+	font-size: 14px;
+	min-width: 17px;
+	font-weight: 400;
+	color: #FFF;
+
+font-size: 14px;
+
+	}
+
+.number-tel a {
+		max-width: 290px;
+		font-size: 14px;
+		min-width: 17px;
+		font-weight: 400;
+	}
+
+.send-message a {
+		max-width: 189px;
+		font-size: 14px;
+		min-width: 17px;
+		font-weight: 400;
+	}
+
+	.one {
+
+		max-width: 242px;
+		min-height: 29px;
+	}
+
+	.hydra-one {
+		max-width: 1440px ;
+		background-color: #302C42;
+		margin: 0 auto;
+	
+
+		padding-left: 15px;
+		padding-right: 15px;
+		width: 100%;
+		
+		
+		
+	}
+
+
+	.info-hydra {
+		background-color: #302C42;
+		background-image: url("../img/vector.svg");
+		padding-top: 72px;
+		padding-left: 50px;
+		background-repeat: no-repeat, no-repeat;
+		
+	
+	}
+
+
+
+	
+	
+
+	
+	
+
+	.hyndra-img {
+	
+		
+		margin-right: 108px;
+		min-height: 819px;
+		display: inline-block;
+		vertical-align: middle;
+		
+
+	}
+
+	
+		
+	
+	.text-hydra {
+		max-width: 630px;
+		display: inline-block;
+		vertical-align: top;
+		
+
+		
+
+	}
+	
+
+	.text {
+		;
+		
+		
+		
+	}
