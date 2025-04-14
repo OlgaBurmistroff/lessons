@@ -1,0 +1,266 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+@import url("fonts.css");
+
+@import url("reset.css");
+
+
+.wrapper {
+	
+	background-color:#412672;
+	overflow: clip;
+	min-height: 100%;
+
+}
+
+
+.info {
+	font-family:"Inter", sans-serif; 
+	
+	
+	padding-top: 61px;
+	padding-bottom: 102px;
+}
+
+.title {
+	
+	padding-left: 15px;
+		padding-right: 15px;
+	max-width:1200px;
+	margin:0 auto;
+}
+
+.title .title-one {
+	color: #FFF;
+	font-size: 38px;
+	line-height: 46px;
+	margin-bottom: 30px;
+
+}
+
+	.cards {
+		font-size: 0; 
+		
+	}
+	
+	
+.container {
+	
+	max-width: 387px;
+	max-height: 476px;
+	width: 100%;
+display: inline-block;
+font-size: 15px;
+vertical-align: top;
+
+
+}
+
+.content {
+	
+	padding:20px;
+	background-color: #fff;
+	margin: 10px;
+	
+	
+}
+	
+	
+
+.photo {
+	max-width: 347px;
+	min-height: 266px;
+	
+}
+
+
+.content > * {
+	margin-bottom: 16px;
+}
+
+
+.two-title {
+	font-size: 22px;
+	
+	color:#000;
+	margin-bottom: 8px;
+	font-weight: 600;
+}
+
+.content:hover{
+	background: #FFBE48;
+}
+.text {
+	color:#4F4F4F;
+	font-weight: 400;
+	line-height: 1.2;
+
+}
+
+.link {
+	
+	
+		color: #FE3F3F;
+		font-size: 15px;
+		font-weight: 400;
+		line-height: 1.267; 
+		
+	}
+
+	.link:hover {
+		background:#FE3F3F ;
+		
+	}
+
+
+
+	.сontent > *:last-child {
+		margin-bottom: 0;
+	}
+
+
+	.faculty {
+		
+		width: 100%;
+	
+		background-color: #FFF;
+	padding-top: 153px;
+	padding-bottom: 139px;
+	}
+
+	.info-two {
+		
+		font-family:"Inter", sans-serif; 
+		font-weight: 400;
+		max-width:1200px;
+	margin:0 auto;
+	}
+	.title-two {
+		color:#412672;
+		font-size: 34px;
+
+	}
+	.faculty-text p {
+		color:#412672;
+		font-size: 22px;
+	}
+.faculty-text li {
+	font-size: 20px;
+	color:#4F4F4F;
+	margin-bottom: 20px;
+}
+
+
+
+
+
+
+.faculty-text h2,p:not(:last-child) {
+	margin-bottom: 20px;
+}
+		
+	
+	
+	
+
+.faculty-text ul li::before {
+	content: "";
+	margin-right: 15px;
+	width: 30px;
+	height:30px;
+	vertical-align: middle;
+	background: url(../img/icon.svg) no-repeat
+	
+}
+
+.section {
+	max-width:1200px;
+	margin:0 auto;
+	
+	
+	}
+	.team {
+		margin: 20px;
+  
+  font-size: 0;
+	}
+	
+	.team-one{
+
+		width: 100px;
+		height: 100px;  
+		
+		display: inline-block;
+		background: #8f8f8f;
+		text-align: center;
+		font-family: Verdana;
+		
+		font-size: 24px;
+		color: #4A3AFF;
+		
+	}
+.team-two {
+	width: 100px;
+		height: 100px;  
+		
+		display: inline-block;
+		
+		text-align: center;
+		font-family: Verdana;
+	background:#FFBE48 ;	
+		font-size: 24px;
+		color: #4A3AFF;
+		margin-left: 20px;
+
+	
+}
+.team-three{
+	width: 100px;
+		height: 100px;  
+		
+		display: inline-block;
+		
+		text-align: center;
+		font-family: Verdana;
+	background: #FE3F3F ;	
+		font-size: 24px;
+		color: #4A3AFF;
+		margin-left: 20px;
+}
+
+.team-foth {
+	
+		display: inline-block;
+		background:#FFF;
+		text-align: center;
+		font-family: Verdana;
+	
+		font-size: 24px;
+		color: #4A3AFF;
+		margin-left: 20px;
+
+		width: 100px;
+		height: 100px;  
+}
+
+.team-one:hover {
+	
+	color:#FFF;
+}
+
+.team-two:active {
+	color: red;
+}
+.team-three a:visited{
+    color: blueviolet;
+}
+
+
+.team-foth a:focus{
+	outline: 3px dashed   #FFBE48;
+	
+	
+}
+
