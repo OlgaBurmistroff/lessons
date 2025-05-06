@@ -1,0 +1,37 @@
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+@import url("fonts.css");
+
+@import url("reset.css");
+
+
+.wrapper {
+	
+	
+	overflow: clip;
+	min-height: 100%;
+
+}
+
+
+.page {
+	
+	font-family: "Poppins", sans-serif;
+	
+	
+	background-color: brown;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 20px;
+}
+
+
+	
+
+
+
